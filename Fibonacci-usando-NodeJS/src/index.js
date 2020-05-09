@@ -8,10 +8,10 @@ const geraFibonacci = (n) => {
 const fibonacci = () => {
     let array = []
     let indice = 0
-    while (geraFibonacci(indice) < 350) {
+    do {
         array.push(geraFibonacci(indice))
         indice++
-    }
+    } while (array[indice - 1] < 350)
     return array
 }
 
