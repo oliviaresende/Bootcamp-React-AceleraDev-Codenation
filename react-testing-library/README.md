@@ -1,5 +1,5 @@
 # React Testing Library
 
-Aprendndo sobre a biblioteca de testes do React.
+Aprendendo sobre a biblioteca de testes do React.
 
 Para saber mais acesse [aqui](https://testing-library.com/docs/react-testing-library/intro).
