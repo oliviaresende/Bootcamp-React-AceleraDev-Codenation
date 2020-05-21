@@ -33,12 +33,6 @@ button {
 .container {
   width: 100%;
   margin: 0 auto;
-
-  & p {
-    text-align: center;
-    font-weight: bold;
-    font-size: medium;
-  }
 }
 
 @media screen and (min-width: 960px) {
